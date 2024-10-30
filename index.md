@@ -2,3 +2,4 @@
 This is some regular body txt.
 ## This is an H2.
 ###### This is an H6.
+![image of yaktocat](https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kfjdw9jtdqddwnyimoph.jpg)
